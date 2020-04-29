@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Property">f67a7aabdb10d45072affbefbf96190f</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Scheduled Flow to Update Overdue NeedIt Tasks">98d81940dbe8185072affbefbf96191a</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>perry.li</sys_created_by>
+        <sys_created_on>2020-04-28 10:14:26</sys_created_on>
+        <sys_id>8f0a1104dbe8185072affbefbf961956</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_8f0a1104dbe8185072affbefbf961956</sys_update_name>
+        <sys_updated_by>perry.li</sys_updated_by>
+        <sys_updated_on>2020-04-28 10:41:37</sys_updated_on>
+        <ui_id>2d27da3e-38b4-495a-bc72-040b1c61f118</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8f0a1104dbe8185072affbefbf961956"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8f0a1104dbe8185072affbefbf961956</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>perry.li</sys_created_by>
+        <sys_created_on>2020-04-28 10:30:18</sys_created_on>
+        <sys_id>f3ad5108dbe8185072affbefbf9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>perry.li</sys_updated_by>
+        <sys_updated_on>2020-04-28 10:30:18</sys_updated_on>
+        <value>x_58872_needit.autoCloseOverdue</value>
+        <variable display_value="">919b5544dbe8185072affbefbf9619f5</variable>
+    </sys_variable_value>
+</record_update>
